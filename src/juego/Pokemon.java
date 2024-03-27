@@ -1,18 +1,28 @@
 package juego;
 
-public abstract class Pokemon {
+/**
+ * @author Sergio Gago Fernández
+ * @version 1.0
+ */
+public class Pokemon {
     private String nombre;
     private String tipo;
-    private int vida;
 
     public Pokemon(String nombre, String tipo) {
         this.nombre = nombre;
         this.tipo = tipo;
-        this.vida = 100;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getTipo() {
+        return tipo;
     }
 
     @Override
     public String toString() {
-        return "Pokemon [" + "(Nombre: " + nombre + ") (Tipo: " + tipo + ") (Vida: " + vida + ")]";
+        return "Pokemon [" + "(Nombre: " + nombre + ") (Tipo: " + tipo + ")]";
     }
 }

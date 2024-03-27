@@ -4,24 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a84dd3bb-9f88-465d-aefe-e99b7d47c893" name="Changes" comment="4-Modificación del archivo ListasPokemon.java">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a84dd3bb-9f88-465d-aefe-e99b7d47c893" name="Changes" comment="5-Programa finalizado e incluso añadido la excepción de no incluir el futuro JavaDoc que se encontrá en el directorio documentacion.">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bbcdf6a27b25a583338b2b44d4d15a3db11d1f0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bbcdf6a27b25a583338b2b44d4d15a3db11d1f0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f9bd624a19f9b9e902d0ceb206634f7b7a491fc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f9bd624a19f9b9e902d0ceb206634f7b7a491fc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f3c1f34880657877f78e816ef70f857267e73f5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f3c1f34880657877f78e816ef70f857267e73f5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7218d01c4b0456feef9014ee4634ac8111232f41" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7218d01c4b0456feef9014ee4634ac8111232f41" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be407cd0b64da7b835918e50c3eafe6c1cbc891b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be407cd0b64da7b835918e50c3eafe6c1cbc891b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f387a23aade334eab5b91ddad15580121e4bb8e8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f387a23aade334eab5b91ddad15580121e4bb8e8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introducion" beforeDir="false" afterPath="$PROJECT_DIR$/Introducion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Agua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Agua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Fuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Fuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juego/Agua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juego/Ataques.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juego/Fuego.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/juego/ListasPokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/ListasPokemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/juego/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Pokemon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/juego/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Tipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Tipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/juego/Tipo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711567203171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5-Programa finalizado e incluso añadido la excepción de no incluir el futuro JavaDoc que se encontrá en el directorio documentacion.">
+      <option name="closed" value="true" />
+      <created>1711571366208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711571366208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +169,7 @@
     <MESSAGE value="2-Creación de toda la jerarquía a utilizar." />
     <MESSAGE value="3-Pokemons creados y agregados a lista y mostrados por pantalla." />
     <MESSAGE value="4-Modificación del archivo ListasPokemon.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-Modificación del archivo ListasPokemon.java" />
+    <MESSAGE value="5-Programa finalizado e incluso añadido la excepción de no incluir el futuro JavaDoc que se encontrá en el directorio documentacion." />
+    <option name="LAST_COMMIT_MESSAGE" value="5-Programa finalizado e incluso añadido la excepción de no incluir el futuro JavaDoc que se encontrá en el directorio documentacion." />
   </component>
 </project>

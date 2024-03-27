@@ -2,51 +2,63 @@ package juego;
 
 import java.util.ArrayList;
 
+/**
+ * @author Sergio Gago Fernández
+ * @version 1.0
+ */
 public class ListasPokemon {
     private ArrayList<Pokemon> listado;
 
     public ListasPokemon() {
-        this.listado = new ArrayList<Pokemon>();
+        this.listado = new ArrayList<>();
     }
 
-    public void agregarListado(Pokemon unPokemon){
+    public void agregarListado(Pokemon unPokemon) {
         listado.add(unPokemon);
     }
 
-    public void mostrarLista(){
+    public void mostrarLista() {
         System.out.println(" ");
         System.out.println("***Lista de Pokemons***");
-        for (Pokemon unPokemon : listado){
+        for (Pokemon unPokemon : listado) {
             System.out.println(unPokemon.toString());
         }
         System.out.println(" ");
     }
-    public void mostrarListado(){
+
+    public void mostrarListado() {
         System.out.println(" ");
         System.out.println("***Lista de Pokemons***");
-        for (Pokemon unPokemon : listado){
+        for (Pokemon unPokemon : listado) {
             System.out.println(unPokemon.toString());
         }
         System.out.println(" ");
     }
-     public void mostrarPokemon(int opcionElegida){
-         System.out.println(" ");
-         System.out.println("***Pokemon escogido***");
-         Pokemon unPokemon = null;
-         unPokemon = listado.get(opcionElegida);
-         System.out.println(unPokemon);
-         System.out.println(" ");
-         System.out.println("***Ataques del pokemon**");
-         mostrarAtaque(opcionElegida);
-         System.out.println(" ");
-     }
-     public void mostrarAtaque(int opcionElegida){
-         Pokemon unPokemon = null;
-         unPokemon = listado.get(opcionElegida);
-         if (unPokemon instanceof Agua esAgua){
-             esAgua.mostrarAtaques();
-         } else if (unPokemon instanceof Fuego esFuego){
-             esFuego.mostrarAtaques();
-         }
-     }
+
+    public void buscarNombre(String nombre) {
+        boolean encontrado = false;
+        for (Pokemon unPokemon : listado) {
+            if (unPokemon.getNombre().equalsIgnoreCase(nombre)) {
+                System.out.println("¡¡POKEMON ENCONTRADO!!");
+                System.out.println(unPokemon);
+                encontrado = true;
+            }
+        }
+        if (!encontrado){
+            System.out.println("¡¡NO SE ENCUENTRA EL POKEMON!!");
+        }
+    }
+
+    public void pokemonsTipo(String tipo) {
+        boolean encontrado = false;
+        for (Pokemon unPokemon : listado) {
+            if (unPokemon.getTipo().equalsIgnoreCase(tipo)) {
+                System.out.println(unPokemon);
+                encontrado = true;
+            }
+        }
+        if (!encontrado){
+            System.out.println("¡¡NO EXISTE ESE TIPO DE POKEMON!!");
+        }
+    }
 }
