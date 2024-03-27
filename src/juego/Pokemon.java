@@ -1,21 +1,28 @@
 package juego;
 
-import java.util.ArrayList;
-
+/**
+ * @author Sergio Gago Fernández
+ * @version 1.0
+ */
 public class Pokemon {
     private String nombre;
-    private Tipo tipo;
-    private ArrayList<Pokemon> listadoUsuario;
-    private ArrayList<Pokemon> listadoEnemigo;
+    private String tipo;
 
-    public Pokemon(String nombre, Tipo tipo) {
+    public Pokemon(String nombre, String tipo) {
         this.nombre = nombre;
         this.tipo = tipo;
-        this.listadoUsuario = new ArrayList<>();
-        this.listadoEnemigo = new ArrayList<>();
     }
 
     public String getNombre() {
         return nombre;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    @Override
+    public String toString() {
+        return "Pokemon [" + "(Nombre: " + nombre + ") (Tipo: " + tipo + ")]";
     }
 }
