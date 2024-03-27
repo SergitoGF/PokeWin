@@ -1,8 +1,5 @@
 package juego;
 
-public abstract class Tipo extends Pokemon {
+public abstract class Tipo extends ListasPokemon {
 
-    public Tipo(String nombre, Tipo tipo) {
-        super(nombre, tipo);
-    }
 }
