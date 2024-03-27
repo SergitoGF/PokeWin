@@ -1,7 +1,3 @@
 ***PokeWin***
 
-Desarrollaremos un juego donde el usuario podrá escoger un pokémon (existentes en una lista) y enfrentarse
-a otro pokemon (existente en otra lista y escogido de manera aleatoria).
-
-Cada pokemon tendrá ataqutes según el tipo que sea. La batalla terminará cuando se termine la vida de uno
-de los dos pokemons que dependerá del tipo de ataque realizado y recibido.
+Desarrollaremos un juego donde el usuario podrá escoger un pokémon (existentes en una lista) y consultar los ataques genéricos de ese tipo de pokemons.

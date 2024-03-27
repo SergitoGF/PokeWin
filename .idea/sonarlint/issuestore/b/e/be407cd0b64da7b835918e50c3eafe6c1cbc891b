@@ -1,5 +1,19 @@
 
 ¡
-java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ž°†Óþÿÿÿÿ8µÒ¾Šè1J$4fabf2cb-d2bb-4b0c-84a3-b9a11a3e2cc7
-r	java:S106"+Replace this use of System.out by a logger.(ÎöÆ³ûÿÿÿÿ8ÂÒ¾Šè1J$3d8655ce-a560-4446-bb8c-d4efac091672
-r	java:S106"+Replace this use of System.out by a logger.(‰µÌ™þÿÿÿÿ8‰†ÐŠè1J$aae40ece-31ba-4eed-9f3d-f2c0931dc817
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ž°†Óþÿÿÿÿ8ŒÃ¥Œè1J$bbf6a797-5f9b-4983-9f0c-678328996017
+¤
+java:S4144"\Update this method so that its implementation is not identical to "mostrarLista" on line 16.(Æèõ•úÿÿÿÿ8÷çÙŒè1J$5ac25906-d531-415c-b35b-72e0cee8c68e
+r	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8™Ã¥Œè1J$018b2aca-d54f-4c7e-b4e4-1db1379a1281
+r	java:S106"+Replace this use of System.out by a logger.(’Ë©Íýÿÿÿÿ8™Ã¥Œè1J$d09295a8-74fe-447c-a7f8-a2ad07c50163
+r	java:S106"+Replace this use of System.out by a logger.(‰µÌ™þÿÿÿÿ8šÃ¥Œè1J$d938e314-f3eb-47ed-a42b-85ca03060f27
+r	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8šÃ¥Œè1J$8e63b71c-a275-4457-823b-cf6a769da0f0
+r	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8›Ã¥Œè1J$3cf3938c-6856-4ff4-b54c-f695d446d989
+r	java:S106"+Replace this use of System.out by a logger.(’Ë©Íýÿÿÿÿ8œÃ¥Œè1J$da09262b-9409-408b-9a13-df2435dc7ed0
+r	java:S106"+Replace this use of System.out by a logger.(‰µÌ™þÿÿÿÿ8œÃ¥Œè1J$26cbbd5e-6262-405b-a082-fea64aff1c5c
+r	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8£‡°Œè1J$7ccfcc4f-b396-440a-aa6f-4476850b4e1b
+r	java:S106!"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8þÝ°Œè1J$372109aa-79ba-4f06-a552-4c76d5172e02
+r	java:S106""+Replace this use of System.out by a logger.(ð±»»þÿÿÿÿ8ÿÝ°Œè1J$34481157-f5d0-474e-a0de-03e66723b670
+r	java:S106%"+Replace this use of System.out by a logger.(¸ÕÌõüÿÿÿÿ8ëµ¾Œè1J$5d875b5e-a528-44c1-8c66-fb1aaae4f533
+r	java:S106&"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8ëµ¾Œè1J$eaaaa042-0b19-470a-8615-8a4f4cb66835
+m	java:S106'"+Replace this use of System.out by a logger.(¸€Œñ8ìµ¾Œè1J$4e586bf9-f068-4222-b093-32458ad7db3c
+r	java:S106)"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8íµ¾Œè1J$88b5eaec-7771-4d91-97cc-6ed0b3ae7df3
