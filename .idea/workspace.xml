@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a84dd3bb-9f88-465d-aefe-e99b7d47c893" name="Changes" comment="6-Reestructuración del programa.">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bbcdf6a27b25a583338b2b44d4d15a3db11d1f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c603c9ac3c42a948db8499967480beab4cb67c9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68efd174b2a30ca10c73c113ed256f0b00018a2c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6ab521560221b0efc6523e6f438c28bca9dd4fa6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bb0a2dd1dbf40267f9938de8aaadf8c8064f4c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7218d01c4b0456feef9014ee4634ac8111232f41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/8346fca9dc99f164abdd6f928b90c77e84f33a31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/952aac352fd05e6bbd97e5dee37db4ab563cd441" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc9e94cfa8c358437bdfc511798aad9fbc1a496b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c575b7da786c9ff15b049db329c4aa888ea7a283" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2935830dbdf56ec04446f911d058344294c9bd7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f387a23aade334eab5b91ddad15580121e4bb8e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61e62bc1270736adf8ee6a62889ccab4d94b7ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/b/2bbcdf6a27b25a583338b2b44d4d15a3db11d1f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/c/3c603c9ac3c42a948db8499967480beab4cb67c9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/8/68efd174b2a30ca10c73c113ed256f0b00018a2c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6ab521560221b0efc6523e6f438c28bca9dd4fa6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6bb0a2dd1dbf40267f9938de8aaadf8c8064f4c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/2/7218d01c4b0456feef9014ee4634ac8111232f41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/8346fca9dc99f164abdd6f928b90c77e84f33a31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/952aac352fd05e6bbd97e5dee37db4ab563cd441" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/c/bc9e94cfa8c358437bdfc511798aad9fbc1a496b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c575b7da786c9ff15b049db329c4aa888ea7a283" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/2/e2935830dbdf56ec04446f911d058344294c9bd7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/3/f387a23aade334eab5b91ddad15580121e4bb8e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f61e62bc1270736adf8ee6a62889ccab4d94b7ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/ListasPokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/ListasPokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Pokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juego/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juego/Programa.java" afterDir="false" />
-    </list>
+    <list default="true" id="a84dd3bb-9f88-465d-aefe-e99b7d47c893" name="Changes" comment="7-FINALIZACIÓN DEL PROGRAMA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711574872375</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7-FINALIZACIÓN DEL PROGRAMA">
+      <option name="closed" value="true" />
+      <created>1711810779866</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711810779866</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +172,7 @@
     <MESSAGE value="4-Modificación del archivo ListasPokemon.java" />
     <MESSAGE value="5-Programa finalizado e incluso añadido la excepción de no incluir el futuro JavaDoc que se encontrá en el directorio documentacion." />
     <MESSAGE value="6-Reestructuración del programa." />
-    <option name="LAST_COMMIT_MESSAGE" value="6-Reestructuración del programa." />
+    <MESSAGE value="7-FINALIZACIÓN DEL PROGRAMA" />
+    <option name="LAST_COMMIT_MESSAGE" value="7-FINALIZACIÓN DEL PROGRAMA" />
   </component>
 </project>
