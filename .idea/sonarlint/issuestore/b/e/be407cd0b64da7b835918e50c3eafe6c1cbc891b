@@ -1,16 +1,19 @@
 
 ¤
-java:S4144"\Update this method so that its implementation is not identical to "mostrarLista" on line 20.(Æèõ•úÿÿÿÿ8­Óè1J$fde199b8-9584-4891-956e-890bf69a2b2a
-r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8²Óè1J$2b66dd80-b772-4b2f-9538-4b5c5a0b0756
-r	java:S106"+Replace this use of System.out by a logger.(’Ë©Íıÿÿÿÿ8²Óè1J$67f4fbc2-9cc9-4f43-9528-a10772488b18
-r	java:S106"+Replace this use of System.out by a logger.(‰µÌ™şÿÿÿÿ8²Óè1J$65a6d138-5f20-49d0-8d27-c7ae421b50d3
-r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8³Óè1J$d3d846c9-8d05-4f06-ac49-a6a406446723
-r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8³Óè1J$8d93c5e4-444e-4e01-9987-28e00eabdfae
-r	java:S106"+Replace this use of System.out by a logger.(’Ë©Íıÿÿÿÿ8³Óè1J$8b0e74da-cad0-46cb-ba87-31653766e553
-r	java:S106!"+Replace this use of System.out by a logger.(‰µÌ™şÿÿÿÿ8´Óè1J$78c2f668-42fe-4784-b220-d23991146140
-r	java:S106#"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8µÓè1J$3cd6f83d-4ac7-4be2-99f5-6f49dd81dd6c
-m	java:S106*"+Replace this use of System.out by a logger.(éĞì½8·Óè1J$4254cc9b-f7bc-4d60-a17b-0bff4440c377
-r	java:S106+"+Replace this use of System.out by a logger.(¸ÕÌõüÿÿÿÿ8Š¹­è1J$cac70169-5841-428f-9597-080885b4a8ba
-r	java:S1060"+Replace this use of System.out by a logger.(ì”“‚şÿÿÿÿ8’ø®è1J$ff5aebfe-4909-4436-b271-5132585977c6
-r	java:S1068"+Replace this use of System.out by a logger.(¸ÕÌõüÿÿÿÿ8“ø®è1J$065d6ca9-bf47-4dc7-ad99-9c9a1017d1ad
-r	java:S106="+Replace this use of System.out by a logger.(¯Æ“èüÿÿÿÿ8¥Ì´è1J$4c9f3edf-769a-46a2-94b4-f7d11e08d988
+java:S4144/"\Update this method so that its implementation is not identical to "mostrarLista" on line 34.(Æèõ•úÿÿÿÿ8±ƒïşè1J$4ba050f1-ecf5-432f-ae8f-d199a6799e3c
+x
+java:S1133""5Do not forget to remove this deprecated code someday.(¨ÙıÒ8¶ƒïşè1J$3d663ae1-a3ca-4b2a-9ff7-9c95685ce404
+j
+java:S1123""'Add the missing @Deprecated annotation.(¨ÙıÒ8·ƒïşè1J$69051a12-b628-4879-8dcb-76495b7940c3
+r	java:S106#"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ƒïşè1J$4d3ff2f4-670e-4ad5-9ce4-d50017c2455f
+r	java:S106$"+Replace this use of System.out by a logger.(’Ë©Íıÿÿÿÿ8¸ƒïşè1J$89533f37-f5bf-47ab-a0c9-97f84fa90d03
+r	java:S106&"+Replace this use of System.out by a logger.(‰µÌ™şÿÿÿÿ8¹ƒïşè1J$c6cbbca5-40b5-4754-a650-4ef4ab0501b2
+r	java:S106("+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¹ƒïşè1J$73306e71-77f6-4718-9705-42befa62fbf0
+r	java:S1060"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ºƒïşè1J$b9c369ea-91c1-4f7b-94c0-9e4dc9726c18
+r	java:S1061"+Replace this use of System.out by a logger.(’Ë©Íıÿÿÿÿ8ºƒïşè1J$e24fd926-5672-4bce-b5bd-651430c36ee7
+r	java:S1063"+Replace this use of System.out by a logger.(‰µÌ™şÿÿÿÿ8ºƒïşè1J$0fbb6078-b79f-4a6a-8f8d-a6f001c9cddb
+r	java:S1065"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ºƒïşè1J$ef3bd1bb-8bfb-4cfc-a7be-7f86a7bbdb83
+m	java:S106A"+Replace this use of System.out by a logger.(éĞì½8»ƒïşè1J$e548128f-9e0b-46b5-866a-f0a94b302ce8
+r	java:S106B"+Replace this use of System.out by a logger.(¸ÕÌõüÿÿÿÿ8¼ƒïşè1J$eee4b21e-4054-4538-bc01-5b79efae036f
+r	java:S106S"+Replace this use of System.out by a logger.(¸ÕÌõüÿÿÿÿ8½ƒïşè1J$ce593bef-7fd2-4858-a9d6-77a97af894ca
+r	java:S106X"+Replace this use of System.out by a logger.(¯Æ“èüÿÿÿÿ8¾ƒïşè1J$d13fb41d-e1e1-40cd-ad9a-dbf9b436aa51

@@ -12,6 +12,10 @@ public class Programa {
         mostrarMenu(unPokemon);
     }
 
+    /**
+     *
+     * @param unPokemon Objeto de tipo ListasPokemon
+     */
     private static void mostrarMenu(ListasPokemon unPokemon) {
         Scanner entrada = new Scanner(System.in);
         int opcion = 0;
@@ -35,7 +39,9 @@ public class Programa {
                     System.out.println("Nombre del pokemon: ");
                     String nombre = entrada.next();
                     System.out.println(" ");
-                    unPokemon.buscarNombre(nombre);
+                    if (!unPokemon.buscarNombre(nombre)){
+                        System.out.println("¡¡NO SE ECNONTRÓ EL POKEMON!!");
+                    }
                     System.out.println(" ");
                     break;
                 case 3:
@@ -54,10 +60,6 @@ public class Programa {
             }
         } while (!salir);
         entrada.close();
-    }
-
-    private static void mostrarPokemons(ListasPokemon unPokemon) {
-        unPokemon.mostrarListado();
     }
 
     private static ListasPokemon creacionPokemons() {
